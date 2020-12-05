@@ -1,1 +1,2 @@
-# global_suicide_longitudinal
+# Global Suicide Longitudinal Analysis
+## Author: Zikai Lin, Olivia Conway, Miriam Hu, Suqi Ke
